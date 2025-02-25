@@ -38,7 +38,7 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License.
 
 ## 📩 Contact
-For questions or suggestions, contact **[your email]** or open an issue on GitHub.
+For questions or suggestions, contact **hayelalfasly@gmail.com** or open an issue on GitHub.
 
 ---
 
